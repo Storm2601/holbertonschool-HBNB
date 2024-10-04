@@ -24,6 +24,8 @@ Ce projet suit une architecture en couches et utilise un modèle de façade pour
 
 L'architecture de l'application est modulaire et suit une structure en couches, où chaque module gère une partie clé du système.
 
+![Architecture Haut Niveau](./path_to_your_image/file-RtwQpfE04n8xKpHJqe6bR1hG.png)
+
 - **Modules principaux :**
   - Utilisateurs
   - Lieux
@@ -33,6 +35,8 @@ L'architecture de l'application est modulaire et suit une structure en couches, 
 ## Diagramme de Classes de la Couche Logique Métier
 
 Voici un aperçu des principales classes et leurs relations dans le système HBnB.
+
+![Diagramme de Classes](./path_to_your_image/file-X7BhwjpwGTvrkbA4LzOjRtb2.png)
 
 - **Utilisateur** : Représente un utilisateur de l'application.
 - **Lieu** : Un lieu est un espace que l'utilisateur peut créer.
@@ -59,6 +63,8 @@ Voici un aperçu des principales classes et leurs relations dans le système HBn
   - `create_review()`, `update_review()`, `delete_review()` : Gère la création et modification des avis.
 
 ## API et Diagrammes de Séquence
+
+![Diagramme de Séquence](./path_to_your_image/file-I9sXZ3L2dFT5FVS0e9hegBw5.png)
 
 ### API pour la Création d’un Lieu
 
